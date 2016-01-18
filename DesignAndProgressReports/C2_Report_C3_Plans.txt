@@ -1,0 +1,60 @@
+Loderunner Cycle 2 report and Cycle 3 plans:
+
+Team 3	       Members:Joseph Militello
+					   Jacob Kinispel 
+					   Peter Larson
+
+
+CYCLE 2 REPORT:
+
+Which user stories did your team successfully implement and test?
+User can save and load player files or profiles
+Mobs are created and interact with the character correctly (but do not chase the user)
+User can pause the game and interact with a main menu
+Music plays at *appropriate times* while the game is running and some actions might make sound effects
+
+
+Which stories were in your plans, but did not get done?  Describe the state of each.
+User can see their score and lives - We have not touched on this. The player can die, but it he cannot see his lives or his score.
+
+
+
+What research experiments did your team do as you learn about technologies?
+We researched better ways to get better graphics
+
+
+
+Briefly describe the main contributions of each team member during Cycle 2.
+Joseph Militello - Loading and saving player profiles/interact with main menu
+Peter Larson - Fixed repeated image resizing. Added more accurate display. images. 
+Jacob Kinispel - User can pause game/music plays at *appropriate times* and sound effects/mobs are created and interact...
+
+
+CYCLE 3 PLANS:
+
+
+USER STORIES:
+
+List the user stories that you plan to implement in Cycle 3:
+We plan to add burgers to the game.
+The user can walk on burgers and burger move down.
+The user can win levels and move to next level.
+The user can lose levels and revert to the main menu.
+User may be able to choose new options from the main menu for music/sound
+
+
+
+RESEARCH:   
+What information/techniques does your team need to research, and who is assigned to investigate what?
+
+Will will be trying to add the burgers. 
+We may look into how interact with other sprites, but for the most part, we know how to do this.
+We will also look at different methods of doing an ai for the mobs. We may implement more than one.
+
+
+
+
+
+MISC:
+Describe any other aspects of your plans for cycle 3.
+N/A

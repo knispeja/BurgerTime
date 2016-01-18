@@ -1,0 +1,28 @@
+Loderunner Cycle 1 plans:
+
+Team #3          Members:Peter Larson, Joseph Millitelo, Jacob Knispel
+
+USER STORIES:
+
+List the user stories that you plan to implement in cycle 1:
+
+User launches program and asks the user to open up a map file to load
+The world resembles the file that is loaded
+User can close program
+User can control a character with keyboard
+User can make character move up, down, left, and right
+
+
+
+RESEARCH:   
+What information/techniques does your team need to research, and who is assigned to investigate what?
+
+Loading saving-Joseph
+Movements-Jacob
+Drawing-Peter
+
+MISC:
+Describe any other aspects of your plans for cycle 1.
+Menu with start button. 
+Pausing. 
+ 

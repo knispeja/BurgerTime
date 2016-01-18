@@ -1,0 +1,58 @@
+Loderunner Cycle 1 report and Cycle 2 plans:
+
+Team #  3        Members:Joseph Militello
+						 Peter Larson
+						 Jacob Knispel
+
+
+CYCLE 1 REPORT:
+
+Which user stories did your team successfully implement and test?
+We where able to make the character move around in a world
+which loads from text files using the keyboard.
+
+
+Which stories were in your plans, but did not get done?  Describe the state of each.
+We got all the plans for this stage done.
+
+
+
+What research experiments did your team do as you learn about technologies?
+We did some simple research on importing audio, images, and getting keyboard input
+using past projects and Internet tutorials/guides
+
+
+
+Briefly describe the main contributions of each team member during Cycle 1.
+Joe Militello - Keyboard Input, File Loading
+Peter Larson - Graphics and importing images
+Jacob Knispel - Character, the clock, movement, and audio
+
+
+CYCLE 2 PLANS:
+
+
+USER STORIES:
+
+List the user stories that you plan to implement in Cycle 2:
+User can see their score and lives
+User can save and load player files or profiles
+Mobs are created and interact with the character correctly (but might not chase the user yet)
+User can pause the game and interact with a main menu
+Music plays at *appropriate times* while the game is running and some actions might make sound effects
+
+
+RESEARCH:   
+What information/techniques does your team need to research, and who is assigned to investigate what?
+Joseph Militello - Loading/saving player files, add to the world loading
+Jacob Knispel - Mobs and mob spawning, sound effects
+Peter Larson- Resizing sprite images, Having scaling ladders, dealing with collisions
+Simulation animation
+
+Other - Main menu/pause menu, score & lives
+
+
+
+
+MISC:
+Describe any other aspects of your plans for cycle 2.

@@ -1,0 +1,76 @@
+Loderunner Cycle 3 report and Cycle 4 plans:
+
+Team 3          Members: Jacob Knispel
+						 Joseph Militello
+						 Peter Larson
+
+
+CYCLE 3 REPORT:
+
+Which user stories did your team successfully implement and test?
+------
+-The user can use pepper on the mobs and stun them with Space (still mildly buggy)
+-The user can walk on burgers and the burgers move down as expected
+-Upon completing all burgers, the user advances to the next level
+-Upon losing three lives, the user is taken back to the main menu
+-The user may mute the arguably obnoxious sounds from the main menu
+-The user experiences much smoother gameplay -- entities move smoothly between
+								   tiles rather than teleporting amongst them
+-Mobs now move slightly slower than the user as specified
+-User can pause the game more reliably (with Escape)
+
+Which stories were in your plans, but did not get done?  Describe the state of each.
+------
+Nothing really!
+
+
+
+What research experiments did your team do as you learn about technologies?
+------
+We talked a lot about different ways to make mobs move slower than the player,
+and finally settled on splitting each coordinate tile into essentially subtiles
+in which the player/mob can move. The mob and player have a different number of
+subtiles per tile, simulating different movement speeds but maintaining the
+simplicity and efficiency of tile collision and loading.
+
+
+
+Briefly describe the main contributions of each team member during Cycle 3.
+Joseph Militello: Menu buttons, effects of winning & losing, level design
+Peter Larson: All graphics & revamped tile/movement system
+Jacob Knispel: Sound, all burger stuff
+
+
+
+
+
+
+CYCLE 4 PLANS:
+
+
+USER STORIES:
+
+List the user stories that you plan to implement in Cycle 4:
+User should have more reliable controls
+Pepper should have limited uses and should have better mechanics (it's a little wonky at the moment)
+Burgers have visually appealing graphics
+User has a score
+User's lives and score are displayed onscreen
+User's lives and score should carry over between levels
+User sees text like "GAME OVER," "VICTORY," and "PAUSED" when appropriate
+
+(If we have time)
+Mobs have more intelligent AI
+User can enter high scores on death/on completion of all levels
+
+
+RESEARCH:   
+What information/techniques does your team need to research, and who is assigned to investigate what?
+------
+Research how to do AI pathing
+Research a simple fix to the "continued press" issue with controls
+
+
+MISC:
+Describe any other aspects of your plans for cycle 4.
+N/A

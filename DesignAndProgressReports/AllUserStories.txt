@@ -1,0 +1,18 @@
+User launches program and asks the user to open up a map file to load
+The world resembles the file that is loaded
+User can close program
+User can control a character with keyboard
+User can make character move up, down, left, and right
+User can pause and open pause menu.
+User can create and load player profile.
+User can throw pepper.
+User can walk on burger parts.
+User has lives and score.
+Player profile saves scores and levels. 
+User can pick from different levels
+User can change difficulty.
+User can die.
+User can win. 
+When the player turns left and right, the character looks left and right (The orientation of the player changes)
+User can play a multiplayer version and play with his friend  
+The game includes nice animation/graphics
